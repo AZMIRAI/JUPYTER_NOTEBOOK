@@ -50,3 +50,5 @@ https://www.markdownguide.org/cheat-sheet/ 마크다운
 문서작업 가능 + 프로그래밍 작업도 가능
 
 코드쉘, 마크다운쉘 있음
+
+ctrl + shift + -
