@@ -52,3 +52,9 @@ https://www.markdownguide.org/cheat-sheet/ 마크다운
 코드쉘, 마크다운쉘 있음
 
 ctrl + shift + -
+
+
+
+작업을하면서 저장
+
+gist.github.com에 들어간다
